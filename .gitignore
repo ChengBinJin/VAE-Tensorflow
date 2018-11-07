@@ -1,0 +1,5 @@
+src/.idea/
+src/__pycache__/
+src/freyface/
+src/mnist/
+github_imgs/
