@@ -257,7 +257,6 @@ def elu(x, name='elu', is_print=False):
 
 
 def xavier_init(in_dim):
-    # print('in_dim: ', in_dim)
     xavier_stddev = 1. / tf.sqrt(in_dim / 2.)
     return xavier_stddev
 
