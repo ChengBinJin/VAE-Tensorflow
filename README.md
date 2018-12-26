@@ -82,12 +82,12 @@ An implementation of variational auto-encoder (VAE) for MNIST and FreyFace descr
    <img src="https://user-images.githubusercontent.com/37034031/48130364-c837ae00-e2cf-11e8-80fe-a65edf855ebe.png" width=700>
 </p>
 
-### 4. Learend MNIST Manifold and Distribution of Labeled Data
+### 4. Learned MNIST Manifold and Distribution of Labeled Data
 <p align='center'>
    <img src="https://user-images.githubusercontent.com/37034031/48130706-dafeb280-e2d0-11e8-9ef4-fe13feb297ad.png" width=900>
 </p>
 
-### 5. Learend Frey Face Manifold
+### 5. Learned Frey Face Manifold
 <p align='center'>
    <img src="https://user-images.githubusercontent.com/37034031/48130864-6710da00-e2d1-11e8-83c1-8de5e6321da9.png" width=500>
 </p>
